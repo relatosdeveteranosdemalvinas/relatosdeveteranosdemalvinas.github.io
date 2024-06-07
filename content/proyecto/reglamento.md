@@ -10,9 +10,9 @@ tags: ["Edición 2024"]
 ## REGLAMENTO
 
 
-1. A cada artista le corresponderá un relato de la entrevista designado al azar por orden de inscripción. No habiendo posibilidad de elección o cambio del relato.  
-  Queda abierta, a decisión de cada Artista, la posibilidad de  reunirse  con el Veterano. El enlace            se realizará a través de  la Comisión de DDHH por  los siguientes  Whats App: 
-  +54 9 2942 66-6805   /       +54 9 3544 54-6456
+1. A cada artista le corresponderá un relato de la entrevista designado al azar por orden de inscripción. No habiendo posibilidad de elección o cambio del relato.
+  Queda abierta, a decisión de cada Artista, la posibilidad de  reunirse  con el Veterano. El enlace se realizará a través de  la Comisión de DDHH por  los siguientes  Whats App: 
+   [+54 9 2942 66 6805](https://wa.me/+5492942666805) / [+54 9 3544 54 6456](https://wa.me/+5493544546456) 
 
 2. A partir del relato el artista podrá interpretar libremente, parte del texto, o concepto general del mismo, utilizando el medio expresivo y técnica a elección.
 3. OBRAS VISUALES  límite máximo de tamaño ya sean estas resueltas  en el plano o tridimensionales, no podrán exceder las medidas su lado mayor 80cm.

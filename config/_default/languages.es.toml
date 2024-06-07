@@ -15,12 +15,12 @@ title = "Inicio"
 
 [author]
   name = "Proyecto Relatos de Veteranos de Malvinas"
-  image = "territorio-malvinas.jpg"
+  image = "malvinas.png"
   headline = ""
   bio = ""
   links = [
-    { email = "antonella.diaz.arte@gmail.com" },
-    { email = "su10.ganora@gmail.com" },
+    { email = "mailto:antonella.diaz.arte@gmail.com" },
+    { email = "mailto:su10.ganora@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
