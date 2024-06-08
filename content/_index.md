@@ -27,8 +27,8 @@ UN RELATO ⬄ UNA OBRA, abierta a todas las disciplinas artísticas.
   <table>
     <tr>
       <td style="padding: 10px; vertical-align: middle; text-align: center;">{{< figure src="logo_mesa_ddhh.png" caption="Comisión Mesa DDHH" alt="Logo Comisión Mesa DDHH">}}</td>
-      <td style="padding: 10px; vertical-align: middle; text-align: center;">{{< figure src="logo_git.png" caption="Grupo de Investigación Traslasierra -GIT-" alt="Logo Grupo de Investigación Traslasierra -GIT-" >}}</td>
       <td style="padding: 10px; vertical-align: middle; text-align: center;">{{< figure src="logo_achuncanarte.png" caption="Grupo de Artistas AchuncanArte" alt="Logo Grupo de Artistas AchuncanArte" >}}</td>
+      <td style="padding: 10px; vertical-align: middle; text-align: center;">{{< figure src="logo_git.png" caption="Grupo de Investigación Traslasierra -GIT-" alt="Logo Grupo de Investigación Traslasierra -GIT-" >}}</td>
     </tr>
   </table>
 </div>
