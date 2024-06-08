@@ -41,7 +41,7 @@ tags: ["Edición 2024"]
 - FECHA MÁXIMA: 31 ENERO 2025
 - Mail de registro:   [gustavodimario@gmail.com](mailto:gustavodimario@gmail.com)
 
-#### ENTRGA de  LA OBRA 28 DE FEBRERO 
+#### ENTREGA de  LA OBRA 28 DE FEBRERO
 
 - RECEPCIÓN DE LA MISMA lugar a designar
 - CONSULTAS   Mails :  [Antonella.diaz.arte@gmail.com](mailto:Antonella.diaz.arte@gmail.com)   /  [su10.ganora@gmail.com](mailto:su10.ganora@gmail.com)
