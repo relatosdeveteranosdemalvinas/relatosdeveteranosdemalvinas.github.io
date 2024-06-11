@@ -23,6 +23,6 @@ tags: ["Edición 2024"]
 
 - Completar formulario - B - Registro y datos de la obra. 
 - FECHA MÁXIMA: 31 ENERO 2025  
-- Mail de registro:   gustavodimario@gmail.com
+- Mail de registro:[gustavodimario@gmail.com](mailto:gustavodimario@gmail.com)
 
 
