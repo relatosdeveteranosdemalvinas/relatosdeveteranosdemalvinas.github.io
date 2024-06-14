@@ -19,7 +19,7 @@ UN RELATO ⬄ UNA OBRA, abierta a todas las disciplinas artísticas.
 
 
 {{< alert "link" >}}
-[Llenar ficha de inscripción](https://docs.google.com/document/d/19Qn74aBUGlan3bOKt89MarnGA2V1CI10mO0AKGUlysE/copy)
+[Formulario de inscripción web](https://forms.gle/TuDLv45qXbnRMokn6)
 
 [Enlace alternativo de descarga](proyecto/inscripcion/ficha_de_inscripcion_1.docx)
 {{< /alert >}}

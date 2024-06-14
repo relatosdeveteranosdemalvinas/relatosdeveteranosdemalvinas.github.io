@@ -25,7 +25,9 @@ tags: ["Edición 2024"]
 ### Formularios  de inscripción
 
 {{< alert "link" >}}
-[Descargar ficha de inscripción](../inscripcion/ficha_de_inscripcion.docx)
+[Formulario de inscripción web](https://forms.gle/TuDLv45qXbnRMokn6)
+
+[Enlace alternativo de descarga](proyecto/inscripcion/ficha_de_inscripcion_1.docx)
 {{< /alert >}}
 
 
