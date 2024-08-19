@@ -33,7 +33,7 @@ tags: ["Edición 2024"]
 
 #### 1º  ETAPA INSCRIPCION:
 	
-- FECHA: DEL 10 Junio al 10 Julio 2024. Se extiende la inscripción hasta el 30 de Agosto.
+- FECHA: DEL 10 Junio al 10 Julio 2024. Se extiende la inscripción hasta el 15 de Septiembre.
 - Completar formulario  -A- para  Inscripción y asignación del relato.  Enviar por 
 - Whats App: [Cecilia +54 9 2942 66 6805](https://wa.me/+5492942666805) 
 
