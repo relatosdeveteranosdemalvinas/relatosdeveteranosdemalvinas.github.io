@@ -22,6 +22,8 @@ UN RELATO ⬄ UNA OBRA, abierta a todas las disciplinas artísticas.
 [Formulario de inscripción web](https://forms.gle/TuDLv45qXbnRMokn6)
 
 [Enlace alternativo de descarga](proyecto/inscripcion/ficha_de_inscripcion_1.docx)
+
+[Formulario B: Seguda Etapa](https://forms.gle/ivERhKmopNav23EH7)
 {{< /alert >}}
 
 
