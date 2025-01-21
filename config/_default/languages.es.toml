@@ -1,3 +1,4 @@
+disabled = false
 languageCode = "es"
 languageName = "Spanish"
 weight = 1
@@ -13,7 +14,7 @@ title = "Inicio"
   description = "Pagina del Proyecto Relatos de Veteranos de Malvinas"
   copyright = ""
 
-[author]
+[params.author]
   name = "Proyecto Relatos de Veteranos de Malvinas"
   image = "malvinas.png"
   headline = ""
